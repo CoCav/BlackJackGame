@@ -5,7 +5,7 @@ This project was realized in collaboration with blCav.
 
 Project in French language.
 
-Technologies used : Java, POO & JFX Interface
+Technologies used : POO, Java & JFX Interface
 
 ------
 
@@ -13,4 +13,4 @@ Ce projet est un jeu de BlackJack réalisé avec Java et une interface graphique
 
 Il a été réalisé en collaboration avec blCav.
 
-Technologies utilisées : Java, POO & JFX Interface
+Technologies utilisées : POO, Java & JFX Interface
